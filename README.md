@@ -1,6 +1,7 @@
 # Toy Language Interpreter (Java)
 
 ![JS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 This project is a Java-based interpreter for a simple toy language, supporting data types, expressions and statements.
 
