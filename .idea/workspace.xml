@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78cf76a3-adfe-4e19-b0f3-47705f11db3f" name="Changes" comment="TLI" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2avQzsHTuxShenw30p0irpj5OCk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.WindowForSelectingProgram.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/crist/IdeaProjects/toy-language-interpreter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\IdeaProjects\TemaGui\src\main\resources\com\example\temagui" />
+      <recent name="C:\Users\crist\IdeaProjects\TemaGui\src\main\java" />
+      <recent name="C:\Users\crist\IdeaProjects\TemaGui\src\main\java\com\example\temagui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.temagui.WindowForSelectingProgram" />
+      <module name="TemaGui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78cf76a3-adfe-4e19-b0f3-47705f11db3f" name="Changes" comment="" />
+      <created>1705196841560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705196841560</updated>
+      <workItem from="1705196842624" duration="10120000" />
+      <workItem from="1705207038237" duration="261000" />
+      <workItem from="1705245222240" duration="3407000" />
+      <workItem from="1705248677688" duration="36000" />
+      <workItem from="1705270444555" duration="113000" />
+      <workItem from="1705273053439" duration="68000" />
+      <workItem from="1705274171404" duration="40000" />
+      <workItem from="1705274245515" duration="12000" />
+      <workItem from="1705275756174" duration="944000" />
+      <workItem from="1705277804796" duration="17000" />
+      <workItem from="1705278208021" duration="2694000" />
+      <workItem from="1705305764821" duration="2122000" />
+      <workItem from="1705590613624" duration="488000" />
+      <workItem from="1705689758025" duration="2151000" />
+      <workItem from="1705852361458" duration="127000" />
+      <workItem from="1705870422535" duration="102000" />
+      <workItem from="1705870610975" duration="91000" />
+      <workItem from="1705903956583" duration="28000" />
+      <workItem from="1705906604992" duration="164000" />
+      <workItem from="1705906805565" duration="4821000" />
+      <workItem from="1712155576475" duration="75000" />
+      <workItem from="1716440120726" duration="43000" />
+      <workItem from="1716440319303" duration="699000" />
+    </task>
+    <task id="LOCAL-00001" summary="TLI">
+      <option name="closed" value="true" />
+      <created>1716440688885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716440688885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TLI" />
+    <option name="LAST_COMMIT_MESSAGE" value="TLI" />
+  </component>
+</project>
